@@ -1,6 +1,7 @@
 ## Vax-Man Asigment
 
 __developer__: Dênnis José da Silva
+
 __email__: dennisjosesilva@gmail.com
 
 Vax-Man is game developed as an assignment (task) of the Forage Eletronic Arts Software Engineering 
@@ -37,9 +38,9 @@ continues until the player press ESC at the Level Selector screen.
 The implemtations are inspired by 3 sources provided by Forage Eletronic Arts Software Engineering 
 Virtual Experience Program:
 
-- pygame primer: 
-- pacman example 1: 
-- pacman example 2:
+- pygame primer: https://realpython.com/pygame-a-primer/
+- pacman example 1: https://github.com/hbokmann/Pacman
+- pacman example 2: https://github.com/grantjenks/free-python-games/blob/master/freegames/pacman.py
 
 The virus movements was implemented using the Dijkstra Algorithm to find the shortest path in 
 graphs. The implementation randomly chooses a point in the level, and a path from the virus to 
